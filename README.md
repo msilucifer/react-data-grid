@@ -4,10 +4,12 @@ ReactDataGrid is a data-grid component with pivot-table-like functionality for d
 
 ![Demo](http://i.imgur.com/BhPF2Cv.gif)
 
+
 ### TODO ###
 
 * Better Pagination
 * Responsive Table
+
 
 ## License ##
 
